@@ -2,3 +2,4 @@ Hey this is me siddhant and i am working on this repository with anshika to show
 
 I will be demonstrating the reset commit command.
 oops the mistake is rectified.
+I will be demonstrating the reset commit command.
