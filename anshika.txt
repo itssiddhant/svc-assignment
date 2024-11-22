@@ -2,6 +2,7 @@ Hey this is me Anshika
 I am working on the dummy project
 this is the prototype
 
+<<<<<<< Updated upstream
 
 
 
@@ -9,3 +10,6 @@ this is the prototype
 
 
 this was the after work of stashing
+=======
+so the work goes on like this and i will be stashing this piece of text as i am not sure it is ready for production.
+>>>>>>> Stashed changes
